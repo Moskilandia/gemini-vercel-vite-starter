@@ -1,0 +1,38 @@
+src/styles.css
+body {
+  margin: 0;
+  background: #f9fafb;
+}
+
+.container {
+  max-width: 720px;
+  margin: 4rem auto;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+}
+
+textarea {
+  width: 100%;
+  min-height: 140px;
+  padding: 12px;
+  margin-top: 1rem;
+  font-size: 14px;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 10px 16px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+pre {
+  margin-top: 1.5rem;
+  background: #111;
+  color: #0f0;
+  padding: 1rem;
+  white-space: pre-wrap;
+}
+Add base styles
