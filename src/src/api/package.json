@@ -1,5 +1,9 @@
 package.json
 {
+  "name": "gemini-vercel-vite-starter"
+}
+
+{
   "name": "gemini-vercel-vite-starter",
   "private": true,
   "type": "module",
