@@ -22,4 +22,5 @@
     "vite": "^5.0.0"
   }
 }
-Add package.json
+fix package.json (valid JSON for Vite)
+
